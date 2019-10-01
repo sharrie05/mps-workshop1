@@ -1,0 +1,136 @@
+/* FIRST ITERATION */
+
+body.sharrie-1 {
+  background: #ffdb66 ;
+  font-family: 'Mansalva', sans-serif ;
+  margin: 360px ;
+  text-align: center;
+  
+}
+body.sharrie-1 .one {
+  font-family: 'Mansalva', sans-serif;;
+  font-size: 60px ;
+  font-weight: normal;900;
+  text-decoration:overline;
+  text-align:justify ;
+  padding: 10px;
+  color: orange;
+  opacity: 0.8;
+}
+
+
+
+
+body.sharrie-1 .two {
+  font-family: 'Nunito', sans-serif;
+  font-size: 30px;
+  font-weight: bold;700;
+  text-decoration: 
+  text-align: center;
+  padding: 10px;
+  color: red;
+  opacity:0.9 ;
+}
+body.sharrie-1 .three{
+  font-family: 'Roboto Slab', serif;;
+  font-size: 50px;
+  font-weight: bold;600;
+  text-decoration: underline overline ;
+  text-align: center;
+  padding: 5px;
+  color: white;
+  opacity:0.8 ;
+}
+
+
+/* SECOND ITERATION */
+
+
+body.sharrie-2 {
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+body.sharrie-2 .one {
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+body.sharrie-2 .two {
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+body.sharrie-2 .three{
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+
+
+/* THIRD ITERATION */
+
+
+body.sharrie-3 {
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+
+body.sharrie-3 .one {
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+
+body.sharrie-3 .two {
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+
+body.sharrie-3 .three{
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
